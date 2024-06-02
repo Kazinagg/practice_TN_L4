@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaf98ba7-18ca-4658-9432-6f6d8f574cee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/v9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/v1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/v1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/v3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/v3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/v4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/v4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/v5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/v5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/maven" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hKDKjK2kY3x6Pa8hI9wYhAGFSd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Kazinagg/IdeaProjects/practice_TN_L4/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="practice_TN_L4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="practice_TN_L4" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaf98ba7-18ca-4658-9432-6f6d8f574cee" name="Changes" comment="" />
+      <created>1717333815309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717333815309</updated>
+      <workItem from="1717333816397" duration="193000" />
+      <workItem from="1717334188332" duration="3830000" />
+      <workItem from="1717339148562" duration="6038000" />
+      <workItem from="1717367495160" duration="464000" />
+      <workItem from="1717603525071" duration="319000" />
+      <workItem from="1717603853894" duration="8651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
